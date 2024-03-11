@@ -4,7 +4,7 @@
 
 #test
 
-#Mult/x/x - is for multiplication
-#Div/x/x - is for division
-#add/x/x -  is for addition
-#sub/x/x - is for subtraction
+Mult/x/x - is for multiplication
+Div/x/x - is for division
+add/x/x -  is for addition
+sub/x/x - is for subtraction
