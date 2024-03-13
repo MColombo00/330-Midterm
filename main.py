@@ -1,10 +1,10 @@
-from flask import Flask
+from flask import Flask, render_template
 import random
 app = Flask(__name__)
 
 @app.route('/')
 def greeting():
-    return "Hello There"
+    return render_template('startMenu.html')
 
 
 @app.route('/add/<num1>/<num2>')
