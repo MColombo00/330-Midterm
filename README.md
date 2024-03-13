@@ -1,10 +1,9 @@
 # 330-Midterm
 
-# this is a calculator app that works by using routes in a flask application
+# This is a calculator app that works by using routes in a Flask application
 
-#test
 
-Mult/x/x - is for multiplication
-Div/x/x - is for division
-add/x/x -  is for addition
-sub/x/x - is for subtraction
+- multi/x/x - is for multiplication\
+- div/x/x - is for division\
+- add/x/x -  is for addition\
+- sub/x/x - is for subtraction
